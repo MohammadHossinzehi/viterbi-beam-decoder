@@ -1,0 +1,13 @@
+# Viterbi Beam Decoder - No external dependencies required
+# 
+# This package uses only Python standard library:
+# - heapq: Priority queue operations
+# - math: Logarithm and numerical functions
+# - typing: Type hints
+# - dataclasses: BeamState data structure
+#
+# For development and testing:
+# pytest>=7.0  (optional, for running test suite)
+
+# Python version requirement
+# Requires Python 3.7+ for dataclasses support
